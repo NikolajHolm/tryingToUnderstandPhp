@@ -1,0 +1,51 @@
+.headerImg {
+
+}
+
+.navbar {
+	background: gray;
+}
+
+
+.whiteText {
+	color: white !important;
+}
+
+
+.userForm li a:hover {
+	color: black !important;
+	text-decoration: underline;
+}
+
+nav section ul {
+	display: flex;
+}
+
+nav section ul li {
+	flex: 1;
+	list-style: none;
+	background: gray;
+}
+
+
+
+main article img{
+	transition: opacity 0.3s;
+	opacity: 0.5;
+}
+
+
+
+main article img:hover {
+	opacity: 1;
+}
+
+
+footer{
+	background: gray;
+}
+
+footer p {
+	color: white;
+	margin: 0px;
+}
